@@ -1,6 +1,7 @@
 ## Eternal Elixir's Summary ##
 A full-stack e-commerce web application that allows users to browse, purchase, and manage fictional potion products, built as a team project using
 Flask and a relational database
+* [Video Presentation Here](https://www.loom.com/share/d284831c3eaf47559414f55530cc6b1a)
 
 ## Features ##
 * User authentication and role-based access (Admin vs. Customer)
@@ -54,6 +55,7 @@ pip install -r requirements.txt
  ```bash
 python3 app.py
 ```
+
 
 
 
